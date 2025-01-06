@@ -1,12 +1,7 @@
-class HelloWorld
+class firstprogram
 {
-
-	public static void main(String arg[])
+	public static void main(String[]args)
 		{
-			
-			System.out.println("hello vaibhav");
-
+			System.out.println("hello world");
 		}
-
-
 }
